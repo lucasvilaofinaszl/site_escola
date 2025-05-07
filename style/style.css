@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+
+body{
+    font-family: "Tagesschrift", system-ui;
+}
 .cabecalho{
     background-color: #424e61;
     color: white;
@@ -16,6 +21,12 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+cabecalho-imagem{
+    width: 120px;
+    height: 80px;
+    border-radius: 20%;
 }
 
 .escola-imagem{
@@ -66,3 +77,9 @@
     width: 24px;
     padding: 4px 8px;
 }
+
+.rodape{
+    width: 60px;
+    padding: 12px 0;
+}
+
