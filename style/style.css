@@ -36,7 +36,7 @@ body{
 .cabecalho-imagem{
     width: 120px;
     height: 80px;
-    border-radius: 20%;
+    border-radius: 30%;
 }
 
 .escola-imagem{
@@ -80,7 +80,7 @@ body{
 }
 
 .estudante-imagem{
-    width: 25px;
+    width: 100px;
 }
 
 .estudantes-ícone{
@@ -91,7 +91,7 @@ body{
 .rodape{
     background-color: black;
     text-align: center;
-    color: aqua;
+    color: white;
     font-size: 25px;
 }
 
