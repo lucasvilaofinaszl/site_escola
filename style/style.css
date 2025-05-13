@@ -5,6 +5,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
 
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover{
+    color: bisque:
+}
+
 body{
     font-family: "Tagesschrift", system-ui;
 }
@@ -46,7 +55,7 @@ cabecalho-imagem{
     width: 35%;
 }
 
-.escola-titulo{
+#escola-titulo{
     padding: 24px 0;
 }
 
